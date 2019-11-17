@@ -58,9 +58,9 @@ header .pic{
   justify-content: space-between;
 }
 
-.careers section :nth-child(even){
+/* .careers section :nth-child(even){
   flex-direction: row-reverse;
-}
+} */
 
 .careers .pic{
   width: 50%;
